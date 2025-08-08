@@ -14,8 +14,3 @@ void	ft_is_negative(int n)
 		ft_putchar('P');
 	}
 }
-
-int	main(void)
-{
-	return (0);
-}
